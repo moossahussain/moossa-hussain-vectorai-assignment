@@ -1,4 +1,4 @@
-# Infrastructure Engineer Intern Take-Home Assignment
+# Infrastructure Engineer Take-Home Assignment
 
 ## Overview
 Welcome to the Vectorial AI Infrastructure Engineer internship take-home assignment! This assignment is designed to evaluate your learning capability and understanding of cloud infrastructure concepts while working with modern development tools and practices.
