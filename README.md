@@ -38,7 +38,6 @@ Requirements:
 - Use any preferred programming language (Python/Java/Go/TypeScript)
 - Implement password hashing
 - Include basic input validation
-- Include a Dockerfile for your application
 
 ### Phase 2: Database Infrastructure (Expected time: 1 day)
 Create an AWS CDK stack for the database:
@@ -95,7 +94,6 @@ If you complete the above phases and have time:
 │   │   ├── database-stack.ts
 │   │   └── api-stack.ts
 │   └── bin/
-└── Dockerfile
 ```
 
 ## Evaluation Criteria
